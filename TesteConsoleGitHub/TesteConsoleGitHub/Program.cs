@@ -10,7 +10,7 @@ namespace TesteConsoleGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste no GitHub");
+            Console.WriteLine("Teste no GitHub no Visual Studio 2017");
             Console.ReadKey();
         }
     }
